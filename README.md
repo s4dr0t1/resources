@@ -1,6 +1,10 @@
 # resources
 My own personal list of resources
 
+- [Virtualization](#virtualisation)
+- [Privacy resources](#privacy-resources)
+- Programming resources
+	- [Assembly](#assembly)
 
 ## Virtualisation
 
@@ -31,6 +35,8 @@ switching.software | Ethical, easy-to-use and privacy-conscious alternatives to 
 
 
 ## Programming resources
+
+### Assembly
 
 Name | Description | Link | Tags
 -|-|-|-
